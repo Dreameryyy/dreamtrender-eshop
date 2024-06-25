@@ -1,0 +1,50 @@
+.register-icon {
+    max-width: 20px;
+}
+.navlogo{
+    max-width: 100px;
+}
+.navbar {
+    border: none;
+    width: 100%;
+  }
+  .navbar-brand{
+    margin-right: auto;
+  }
+  .categoryDisplayContainer{
+    float: left!important;
+    margin-right: 20px;
+  }
+ .imga{
+  max-width: 50px;
+ }
+.user-form {
+  margin: auto;
+  width: 300px;
+}
+.red{
+  color: red!important;
+}
+.item-image {
+  width: 100%;
+  height: auto;
+}
+.footer {
+  text-align: center;
+  color: #fff;
+  padding: 25px 0;
+  background: #0062d3;
+}
+
+.footer .copyright {
+  margin-bottom: 0.3rem;
+}
+
+.footer .credits {
+  margin-bottom: 0;
+}
+
+.footer .credits a {
+  color: #fff;
+}
+
