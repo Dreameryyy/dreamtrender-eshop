@@ -1,4 +1,4 @@
-Showcase of my PHP eshop code :) <br>
+Showcase of my PHP eshop project :) <br>
 - web server - Apache
 - back-end - PHP
 - database - MySQL
